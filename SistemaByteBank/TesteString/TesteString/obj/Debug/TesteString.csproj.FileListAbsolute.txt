@@ -1,0 +1,14 @@
+C:\Users\ronan.mesquita\source\repos\TesteString\TesteString\bin\Debug\TesteString.exe.config
+C:\Users\ronan.mesquita\source\repos\TesteString\TesteString\bin\Debug\TesteString.exe
+C:\Users\ronan.mesquita\source\repos\TesteString\TesteString\bin\Debug\TesteString.pdb
+C:\Users\ronan.mesquita\source\repos\TesteString\TesteString\obj\Debug\TesteString.csprojAssemblyReference.cache
+C:\Users\ronan.mesquita\source\repos\TesteString\TesteString\obj\Debug\TesteString.csproj.CoreCompileInputs.cache
+C:\Users\ronan.mesquita\source\repos\TesteString\TesteString\obj\Debug\TesteString.exe
+C:\Users\ronan.mesquita\source\repos\TesteString\TesteString\obj\Debug\TesteString.pdb
+C:\Users\Administrador\Documents\Curso Alura\TesteString\TesteString\bin\Debug\TesteString.exe.config
+C:\Users\Administrador\Documents\Curso Alura\TesteString\TesteString\bin\Debug\TesteString.exe
+C:\Users\Administrador\Documents\Curso Alura\TesteString\TesteString\bin\Debug\TesteString.pdb
+C:\Users\Administrador\Documents\Curso Alura\TesteString\TesteString\obj\Debug\TesteString.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Curso Alura\TesteString\TesteString\obj\Debug\TesteString.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Curso Alura\TesteString\TesteString\obj\Debug\TesteString.exe
+C:\Users\Administrador\Documents\Curso Alura\TesteString\TesteString\obj\Debug\TesteString.pdb
